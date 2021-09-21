@@ -1,0 +1,24 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "description": "yuruyuan",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu5200101/yu5200101.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu5200101/yu5200101.github.io/issues"
+  },
+  "homepage": "https://github.com/yu5200101/yu5200101.github.io#readme"
+}
